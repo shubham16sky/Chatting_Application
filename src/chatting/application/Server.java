@@ -42,7 +42,7 @@ public class Server extends JFrame implements ActionListener {
             }
         });
 
-        ImageIcon i4 = new ImageIcon(ClassLoader.getSystemResource("chatting/application/icons/nawajdp.png"));
+        ImageIcon i4 = new ImageIcon(ClassLoader.getSystemResource("chatting/application/icons/specsboy.png"));
         Image i5 = i4.getImage().getScaledInstance(60, 60, Image.SCALE_DEFAULT);
         ImageIcon i6 = new ImageIcon(i5);
         JLabel l2 = new JLabel(i6);
